@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Anger.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/lazy.unity
+    guid: 2780a0670a7072f4bba28bf9381ec1e4
+  - enabled: 1
+    path: Assets/Scenes/kibir.unity
+    guid: 433a2c9e28937bf44ab35ab5d48b5445
+  - enabled: 1
+    path: Assets/Scenes/acgozluluk.unity
+    guid: ca96df52e8bf8884ba4f8487ac44e609
+  - enabled: 1
+    path: Assets/Scenes/obur.unity
+    guid: 4253c0a63749ba3439392cb8501c116d
+  - enabled: 1
+    path: Assets/Scenes/lust.unity
+    guid: d41b7e3e7221e3f4d995966cb356bfba
+  - enabled: 1
+    path: Assets/Scenes/Envy.unity
+    guid: 346e26806f1583c439b78a85596b424a
+  m_configObjects: {}
